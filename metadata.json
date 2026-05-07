@@ -1,0 +1,6 @@
+{
+  "name": "ElevatorOS v2.4",
+  "description": "Smart corporate elevator control and monitoring interface with biometric authentication and real-time status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
